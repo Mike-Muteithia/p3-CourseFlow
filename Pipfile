@@ -4,14 +4,13 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-python-dotenv = "*"
 click = "*"
-tabulate = "*"
 sqlalchemy = "*"
+tabulate = "*"
 alembic = "*"
+python-dotenv = "*"
 
 [dev-packages]
-
 
 [requires]
 python_version = "3.8"

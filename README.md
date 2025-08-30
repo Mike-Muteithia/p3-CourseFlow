@@ -13,7 +13,7 @@
 
 2. Install dependencies with Pipenv:
 ```bash
-   pipenv install
+   pipenv install click sqlalchemy tabulate alembic python-dotenv
 
 3. Activate the virtual eniviroment:
 ```bash
