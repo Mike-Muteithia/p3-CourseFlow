@@ -25,7 +25,7 @@
 
 5. Run the CLI with:
 ```bash
-   python main.py
+   pipenv run python main.py
 
 - You’ll see the main menu with options to manage Students, Courses, and Enrollments.
 
